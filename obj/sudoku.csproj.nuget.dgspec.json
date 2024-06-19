@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\code\\Practice\\sudoku\\sudoku.csproj": {}
+    "C:\\code\\Practice\\sudoku\\sudoku.csproj": {}
   },
   "projects": {
-    "c:\\code\\Practice\\sudoku\\sudoku.csproj": {
+    "C:\\code\\Practice\\sudoku\\sudoku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\code\\Practice\\sudoku\\sudoku.csproj",
+        "projectUniqueName": "C:\\code\\Practice\\sudoku\\sudoku.csproj",
         "projectName": "sudoku",
-        "projectPath": "c:\\code\\Practice\\sudoku\\sudoku.csproj",
+        "projectPath": "C:\\code\\Practice\\sudoku\\sudoku.csproj",
         "packagesPath": "C:\\Users\\jcahours\\.nuget\\packages\\",
-        "outputPath": "c:\\code\\Practice\\sudoku\\obj\\",
+        "outputPath": "C:\\code\\Practice\\sudoku\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jcahours\\AppData\\Roaming\\NuGet\\NuGet.Config",
